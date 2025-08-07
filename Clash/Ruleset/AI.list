@@ -1,5 +1,5 @@
 # 内容：内容：AI平台-国外
-# 数量：39条
+# 数量：40条
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,openai
@@ -13,6 +13,7 @@ DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,gemini.google.com
 DOMAIN,generativelanguage.googleapis.com
 DOMAIN,sydney.bing.com
+DOMAIN,apple-relay.apple.com
 DOMAIN-SUFFIX,ai.azure.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,auth0.com
